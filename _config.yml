@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 
 title: OpenOOH
 description: Open standards for Programmatic OOH
+
+github:
+  repository_url: https://github.com/openooh
