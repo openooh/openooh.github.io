@@ -1,4 +1,4 @@
-### Curent Standards
+### Current Standards
 
 * [Venue Taxonomy](https://github.com/openooh/venue-taxonomy)
 
